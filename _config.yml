@@ -1,2 +1,4 @@
 name: My Site
-theme: minima
+theme: jekyll-theme-midnight
+title: The home page of MB
+Description: Bookmark this page and share MB
