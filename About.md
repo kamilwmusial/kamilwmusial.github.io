@@ -1,3 +1,3 @@
 layout: page
 title: "About"
-permalink: /about/contact
+permalink: https://kamilwmusial.github.io/about/              
