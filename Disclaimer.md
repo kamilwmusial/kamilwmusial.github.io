@@ -1,3 +1,3 @@
 layout: page
 title: "Disclaimer"
-permalink: /Disclaimer
+permalink: https://kamilwmusial.github.io/Disclaimer
