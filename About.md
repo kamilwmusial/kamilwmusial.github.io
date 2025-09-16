@@ -1,3 +1,7 @@
-layout: page
+---
+layout: "page"
 title: "About"
-permalink: https://kamilwmusial.github.io/about/              
+permalink: /about/
+---
+
+Welcome to the home of the MB!
